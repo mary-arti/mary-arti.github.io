@@ -26,7 +26,7 @@ body {
     left: 27px;
     top: 92px;
 }
-.greenway {
+.way-1 {
     position: absolute;
     width: 215px;
     height: 275px;
@@ -113,11 +113,13 @@ body {
 
 }
 .chapter-greenwrapper {
-    position: absolute;
+   position: absolute;
     width: 70px;
     height: 70px;
-    left: 242px;
-    top: 329px;
+    left: 71px;
+    top: 1176px;
+
+
 
     background: #C4C4C4;
     border: 3px solid #57C74B;
@@ -143,13 +145,218 @@ body {
     top: 315px;
 
 }
+.chapter-name-lock {
+    position: absolute;
+    width: 210px;
+    height: 18px;
+    left: 87px;
+    top: 1470px;
 
 
+    font-family: Muller;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+
+    color: #B2A7A5;
+}
+.chapter-circle-lock {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 222px;
+    top: 1453px;
+    background: #B2A7A5;
+    border: 3px solid #17193F;
+    border-radius: 50%;
+}
+.chapter-icon-lock {
+    position: absolute;
+    width: 45px;
+    height: 49px;
+    left: 238px;
+    top: 1463px;
 
 
+}
+.way-2 {
+    position: absolute;
+    z-index: -1;
+    left: 100px;
+    top: 377px;
 
+}
+.chapter-circle-3 {
+   position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 66px;
+    top: 625px;
 
+    background: #EEB342;
+    border: 3px solid #17193F;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+.chapter-value-3 {
+    position: absolute;
+    width: 343px;
+    height: 18px;
+    left: 156px;
+    top: 644px;
 
+    font-family: Muller;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+
+    color: #FFFFFF;
+
+}
+.chapter-name-3 {
+    position: absolute;
+    width: 175px;
+    height: 18px;
+    left: 156px;
+    top: 658px;
+
+    font-family: Muller;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+
+}
+.chapter-icon-3 {
+    position: absolute;
+    width: 55.77px;
+    height: 57.22px;
+    left: 74px;
+    top: 628px;
+    transform: rotate(-24.91deg);
+}
+.way-3 {
+    position: absolute;
+    width: 255px;
+    height: 283px;
+    left: 50px;
+    z-index: -1;
+    top: 650px;
+
+}
+.chapter-circle-4 {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 228px;
+    top: 900px;
+
+    background: #EEB342;
+    border: 3px solid #17193F;
+    box-sizing: border-box;
+    border-radius: 50%;
+
+}
+.chapter-icon-4 {
+    position: absolute;
+    width: 39px;
+    height: 45px;
+    left: 247px;
+    top: 912px;
+
+}
+.chapter-value-4 {
+    position: absolute;
+    width: 343px;
+    height: 18px;
+    left: 90px;
+    top: 919px;
+
+    font-family: Muller;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+
+    color: #FFFFFF;
+
+}
+.chapter-name-4 {
+    position: absolute;
+    width: 172px;
+    height: 18px;
+    left: 90px;
+    top: 933px;
+
+    font-family: Muller;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+
+}
+.way-4 {
+    position: absolute;
+    left: 110px;
+    top: 950px;
+    z-index: -1;
+}
+.chapter-name-5 {
+    position: absolute;
+    width: 175px;
+    height: 18px;
+    left: 160px;
+    top: 1196px;
+
+    font-family: Muller;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+}
+.chapter-value-5 {
+    position: absolute;
+    width: 343px;
+    height: 18px;
+    left: 160px;
+    top: 1182px;
+
+    font-family: Muller;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+
+    color: #FFFFFF;
+
+}
+.chapter-circle-5 {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 74px;
+    top: 1179px;
+
+    background: #EEB342;
+    border: 3px solid #17193F;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+.chapter-icon-5 {
+    position: absolute;
+    width: 45px;
+    height: 52px;
+    left: 87px;
+    top: 1186px;
+}
 
 
 
