@@ -1,7 +1,7 @@
 html {
     margin: 0;
     padding:0;
-    height: 2400px;
+    height: 3250px;
 }
 body {
     background: #302683;
@@ -117,8 +117,9 @@ body {
    position: absolute;
     width: 70px;
     height: 70px;
-    left: 257px;
-    top: 2567px;
+    left: 67px;
+    top: 2844px;
+
 
 
 
@@ -663,10 +664,65 @@ body {
     top: 2581px;
 
 }
+.way-10 {
+    position: absolute;
+    width: 281px;
+    height: 279px;
+    left: 60px;
+    top: 2602px;
+    z-index: -1;
+    
+}
+.chapter-circle-11 {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 70px;
+    top: 2847px;
 
+    background: #EEB342;
+    border: 3px solid #17193F;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+.chapter-icon-11 {
+    position: absolute;
+    width: 53px;
+    height: 35px;
+    left: 79px;
+    top: 2868px;
+}
+.chapter-name-11 {
+    position: absolute;
+    width: 175px;
+    height: 18px;
+    left: 163px;
+    top: 2864px;
 
+    font-family: Muller;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
 
+    color: #FFFFFF;
 
+}
+.chapter-value-11 {
+    position: absolute;
+    width: 343px;
+    height: 18px;
+    left: 163px;
+    top: 2850px;
+
+    font-family: Muller;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+
+    color: #FFFFFF;
+}
 
 
 @font-face {
