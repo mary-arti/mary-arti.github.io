@@ -1,7 +1,7 @@
 html {
     margin: 0;
     padding:0;
-    height: 1000px;
+    height: 1300px;
 }
 body {
     background: #302683;
@@ -117,8 +117,9 @@ body {
    position: absolute;
     width: 70px;
     height: 70px;
-    left: 63px;
-    top: 622px;
+    left: 225px;
+    top: 897px;
+
 
 
 
@@ -152,8 +153,8 @@ body {
     position: absolute;
     width: 210px;
     height: 18px;
-    left: 90px;
-    top: 917px;
+    left: 154px;
+    top: 1190px;
 
     font-family: Muller;
     font-style: normal;
@@ -175,8 +176,8 @@ body {
     position: absolute;
     width: 70px;
     height: 70px;
-    left: 225px;
-    top: 900px;
+    left: 72px;
+    top: 1177px;
 
 
     background: #B2A7A5;
@@ -187,8 +188,8 @@ body {
    position: absolute;
     width: 45px;
     height: 49px;
-    left: 241px;
-    top: 910px;
+    left: 87px;
+    top: 1189px;
 
 
 }
