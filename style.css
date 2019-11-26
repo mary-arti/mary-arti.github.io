@@ -1,7 +1,7 @@
 html {
     margin: 0;
     padding:0;
-    height: 2150px;
+    height: 2400px;
 }
 body {
     background: #302683;
@@ -117,8 +117,9 @@ body {
    position: absolute;
     width: 70px;
     height: 70px;
-    left: 71px;
-    top: 1731px;
+    left: 257px;
+    top: 2567px;
+
 
 
 
@@ -153,8 +154,9 @@ body {
     position: absolute;
     width: 210px;
     height: 18px;
-    left: 90px;
-    top: 2030px;
+    left: 163px;
+    top: 2864px;
+
     
     font-family: Muller;
     font-style: normal;
@@ -176,8 +178,9 @@ body {
     position: absolute;
     width: 70px;
     height: 70px;
-    left: 225px;
-    top: 2013px;
+    left: 70px;
+    top: 2847px;
+
 
 
 
@@ -186,11 +189,13 @@ body {
     border-radius: 50%;
 }
 .chapter-icon-lock {
-   position: absolute;
+    position: absolute;
     width: 45px;
     height: 49px;
-    left: 241px;
-    top: 2026px;
+    left: 85px;
+    top: 2860px;
+
+
 
 
 }
@@ -543,9 +548,9 @@ body {
 }
 .way-8 {
     position: absolute;
-    width: 180px;
+    width: 281px;
     height: 279px;
-    left: 130px;
+    left: 65px;
     top: 2043px;
     z-index: -1;
 }
@@ -553,14 +558,115 @@ body {
     position: absolute;
     width: 70px;
     height: 70px;
-    left: 70px;
+    left: 74px;
     top: 2291px;
 
     background: #EEB342;
     border: 3px solid #17193F;
     box-sizing: border-box;
-    border-radius: 
+    border-radius: 50%;
 }
+.chapter-name-9 {
+    position: absolute;
+    width: 175px;
+    height: 18px;
+    left: 163px;
+    top: 2318px;
+
+    font-family: Muller;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+
+}
+.chapter-value-9 {
+    position: absolute;
+    width: 343px;
+    height: 18px;
+    left: 163px;
+    top: 2304px;
+
+    font-family: Muller;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+    color: #ffffff;
+}
+.chapter-icon-9 {
+    position: absolute;
+    width: 42px;
+    height: 49px;
+    left: 84px;
+    top: 2301px;
+
+}
+.way-9 {
+    position: absolute;
+    width: 283px;
+    height: 283px;
+    left: 42px;
+    top: 2322px;
+    z-index: -1;
+}
+.chapter-circle-10 {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 260px;
+    top: 2570px;
+
+    background: #EEB342;
+    border: 3px solid #17193F;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+.chapter-name-10 {
+    position: absolute;
+    width: 172px;
+    height: 18px;
+    left: 123px;
+    top: 2586px;
+
+    font-family: Muller;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+
+}
+.chapter-value-10 {
+    position: absolute;
+    width: 343px;
+    height: 18px;
+    left: 123px;
+    top: 2572px;
+
+    font-family: Muller;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+
+    color: #FFFFFF;
+}
+.chapter-icon-10 {
+    position: absolute;
+    width: 40px;
+    height: 48px;
+    left: 275px;
+    top: 2581px;
+
+}
+
+
+
+
 
 
 @font-face {
